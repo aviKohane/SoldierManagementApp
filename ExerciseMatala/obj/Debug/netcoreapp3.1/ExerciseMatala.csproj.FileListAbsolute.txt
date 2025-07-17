@@ -1,0 +1,14 @@
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.exe
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.deps.json
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.runtimeconfig.json
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.runtimeconfig.dev.json
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.dll
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\bin\Debug\netcoreapp3.1\ExerciseMatala.pdb
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.csproj.AssemblyReference.cache
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.AssemblyInfoInputs.cache
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.AssemblyInfo.cs
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.csproj.CoreCompileInputs.cache
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.dll
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.pdb
+C:\Users\keren mayer\OneDrive\Documents\Bureau\c#\ExerciseMatala\ExerciseMatala\obj\Debug\netcoreapp3.1\ExerciseMatala.genruntimeconfig.cache
